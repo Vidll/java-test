@@ -1,4 +1,3 @@
-package com.company;
 import java.lang.Math;
 import java.util.Arrays;
 import java.util.Scanner;
